@@ -1,0 +1,438 @@
+Version 1.0.6.12
+
+- Filter routing, Modulation and Ladder filter added to the Equalizer
+- Aah_04, Arpeggio_Am_01, Arpeggio_C_01, Arpeggio_Dm_01, Arpeggio_Dm_02, Blip_01, Blip_02, Clap_06, Glass_bell_01, Harpsichord_01, Noise_chord_01, Ooh_03, Squelch_01, Stutter_01, Synth_01, Synth_percussion_51 - Synth_percussion_59, Vocal_01 and Vocal_02 added to the Extra tab of the Easy drum synthesizer
+- Pattern and preset added to the Easy drum synthesizer Chord tab
+- Poisson noise added to the Wave Combiner waveforms
+- Preset added to the Distortion user curve
+- Parameter 2, to choose 5 different waveforms, added to W7 and W8 of Command 3
+- Envelope curves 30-50 added
+- Envelope curve parameter added to the wave combiner operators, the volume and the filters
+- Right click menu Load from file / Save to file and presets added to the WC EGs tab
+- "3 x AD" added to the WC Easy EGs tab
+- Two character commands !0-!9, !A-!Z and !a-!z added to Command 3
+- Modulation Invert 1 and Invert 2 added to the Wave combiner
+- Audio trigger removed
+- Drum kit file Roland_TD-1K_Synth_1.edr, Roland_TD-1K_Chords_1.edr and Roland_SPD-6_Chords_1.edr added
+- Cross stick added to most Roland_TD-1K*.edr files
+- On the Fast Settings tab, you can copy a cell to the whole column
+- Default folder for edr files added to the Settings
+
+Version 1.0.6.11
+
+- Chord types aug6, 6sus2, 6sus4, 6b5, 7b5b9, 7b5#9, 9b5, m9b5, (b5), 5add9, 69, m69, 69sus4, add4, madd4, 11omit3, 11omit5 and m11omit5 added to the Easy drum synthesizer Chord tab
+- Root position (add octave note), Omit and Rhythm added to the Easy drum synthesizer Chord tab
+- Sound variations, patterns and presets added to the Easy drum synthesizer Chord tab
+- Cowbell_05, Synth_percussion_49 and Synth_percussion_50 added to the Extra tab of the Easy drum synthesizer
+- Algorithm 24 added to the Wave combiner (See Chord Pattern 16)
+
+
+Version 1.0.6.10
+
+- Aah_02, Aah_03, Ayayaay_01, Bass_drum_07, Bass_drum_08, Flute_01, Karplus-Strong_drum_04, Karplus-Strong_drum_05, Karplus-Strong_drum_06, Oh_yeah_01, Ooh_02, Open_hi-hat_01, Ride_cymbal_01, Ride_cymbal_02, Synth_bass_06, Synth_bass_07, Synth_percussion_42, Synth_percussion_43, Synth_percussion_44, Synth_percussion_45, Synth_percussion_46, Synth_percussion_47, Synth_percussion_48, Tom_05, Tom_06, Violin_01, Whistle_02, Whistle_03, Yeah_01, Yo_01 and chords added to the Extra tab of the Easy drum synthesizer
+- Sample rate 48000 is now also supported for the synthesizer
+- Many preset buttons replaced by a listbox to save memory
+- Clap curve, Filter type, Filter resonance and presets added to the Easy drum synthesizer Clap
+- Curve, Reverb, Waveform, Mark tree 3, and "Play the higher notes" added to the Easy drum synthesizer Mark tree
+- Many scales added to the Easy drum synthesizer Mark tree
+- In the instrument list, you can right click on an instrument to hear it
+- Bass drum of the drum kits improved
+- Hints added
+- Two character commands 1P, 4P, M1-M0 and F7-FA added to Command 3
+- Before overwriting a .eis file, there will be created a backup
+- Backup file naming changed
+- You can now also play a preset on the Extra tab of the Easy drum synthesizer by holding the Ctrl key and clicking on it
+- Filter types Ladder and 1-P Low pass added
+- Auto backup for .eis files created
+- 1 cycle, 2 cycles and 3 cycles added to Command 1 and Command 2 (very handy for Karplus-Strong synthesis)
+- Mix with triangle added to Command 1 and Command 2
+- You can now lock oscillators if you don’t want their parameters to change when using Random or All
+- Drum kits presets are now stored in files to save memory
+- Modulation Value and Algorithm 23 added to the Wave combiner (See Ride_cymbal_01.eis)
+- Easy Setup presets are now stored in files to save memory
+- Enter MIDI event added to the Easy Setup
+- Simmons_Titan_50 preset added to the Easy Setup
+- Chord tab added to the Easy drum synthesizer
+- All Easy drum synthesizer instruments can now be saved by right clicking on the tab
+- Envelope curve 29 added
+
+
+Version 1.0.6.9
+
+- Filter types Low shelf, High shelf, Notch, Low pass, High pass and Band pass added to the Equalizer
+- General MIDI information added to the Key mapping form
+- Some presets improved
+- Church_organ_01, Electricity_01, Heartbeat_01, Karplus-Strong_drum_01, Karplus-Strong_drum_02, Karplus-Strong_drum_03, Laser_01, Noise_drum_03, Noise_drum_04, Noise_drum_05, Whoosh_01, Wood_block_01 and many synth percussion sounds added to the Extra tab of the Easy drum synthesizer
+- Range and accuracy Delay decay factor increased for Karplus-Strong synthesis
+- Protection added for opening edr, eis, esu, rev, bas, cym, met, snr and tom files that are made with a future version of frEDrums
+- Perlin noise added to the Wave Combiner waveforms
+- Delay 2 effect added
+- One pole low pass filter added to the delay effects
+- Distortion curves 43-50 added
+- View modes added for the distortion effect
+- View modes added for the oscilloscope on the Sample / Synth tab
+- The oscilloscope is now also available for the Sample modus
+- Bugs fixed
+
+Version 1.0.6.8
+
+- Preset added to the Key mapping
+- Initial number of sound instances added to the Settings
+- Performance improved
+- Equalizer added
+- Two character command WK added to Command 3
+- Bass_drum_07 added to the Extra tab of the Easy drum synthesizer
+
+
+Version 1.0.6.7
+
+- New crash cymbals made for Drum kit Electronic 9
+- Reverb cowbell of all electronic drum kits improved
+- File Roland_SPD-6_Psytrance.edr added
+- The A-Z keys from the computer keyboard can now be used to trigger the instruments (see Settings/Key mapping)
+- Extra tab of the Easy drum synthesizer improved
+- Bass_drum_05, Clap_04, Cowbell_04, Crash_cymbal_02, Crash_cymbal_03, Crash_cymbal_04, Distortion_guitar_02, E-Piano_01, E-Piano_02, High_bongo_01, Lead_synth_02, Long_guiro_02, Low_bongo_01, Noise_drum_01, Noise_drum_02, Oboe_02, Organ_02, Phone_02, Phone_03, Rhythm_01, Saxophone_01, Short_guiro_02, Snare_roll_01, Strings_02, Synth_bass_01, Synth_bass_02, Synth_bass_03, Synth_bass_04, Synth_bass_05, Synth_brass_01, Synth_brass_02, Synth_pad_01, Timpani_01, Tom_04 and many synth percussion sounds added to the Extra tab of the Easy drum synthesizer
+- Ride_cymbal_01 removed from the Extra tab of the Easy drum synthesizer
+- Some sounds improved on the Extra tab of the Easy drum synthesizer
+- Rock loop improved
+- Disco pattern and Ballad variation added to Edit pitch sequencers
+- Loops Disco, Ballad and Zeibekiko added
+- In the Edit cell form of the Wave combiner there is a menu (C0 - C5) available for entering a frequency
+- Two character commands WI, WJ, BP, HP, LP, NO, cA - cX added to Command 3
+- Algorithms 21-22 added to the Wave combiner
+- "Scale to" added to the WC Easy Levels tab
+- You can now initialize a column in the Wave combiner (Ctrl-I, Ctrl-E)
+- You can now copy a column in the Wave combiner (Ctrl-C and Ctrl-V)
+- Looped noise waveform added the Wave combiner
+- All 0 and All 1 ratio presets added to the Wave combiner
+- Multiply Levels and Times added to the WC EGs tab
+- Blue values can now also be entered by typing
+- Instead of a frequency, often a musical note can be entered
+- Feedback filter, delay types, advanced distortion and ping-pong added to the Delay effect
+- Option "Generate mono waveform (faster) for test sound" added to the Settings
+- Reverb added to the Metallic percussion of the Easy drum synthesizer
+- Reverb of Easy drum synthesizer Cowbell improved
+- Process order added
+- Hints improved
+- Editing Command 3 a lot improved
+- Bit distortion added to the Distortion effect
+- Bugs fixed (also an important problem with the reverb)
+
+
+Version 1.0.6.6
+
+- Filters added to the Distortion effect
+- Bells, Xylophone, Marimba and Steel drum ratio presets added to the Wave combiner
+- Steel_drum_01, Xylophone_01, Xylophone_02 and Vibraphone_01 added to the Extra tab of the Easy drum synthesizer
+- Roland_SPD-6_Steel_drum.edr, Roland_SPD-6_Xylophone_1.edr, Roland_SPD-6_Xylophone_2.edr and Roland_SPD-6_Vibraphone.edr files added
+- Diffuser steps setting and feedback filter added to Reverb configuration 5
+- Open and Save added to the Reverb effect
+- Reverb of Easy drum synthesizer Cowbell improved
+- Performance improved
+- Bugs fixed
+
+
+Version 1.0.6.5
+
+- Distortion effect changed
+- Bias and Mix added to the Distortion effect
+- Distortion curves 40-42 added
+- User distortion curves including parameter formulas added
+- Envelope curves 23-28 added
+- Envelope curve combinations added
+- Less settings option added to the Snare drum of the Easy drum synthesizer
+- Bugs fixed
+
+
+Version 1.0.6.4
+
+- Wave combiner Envelope parameters renamed
+- Time Level 6, Level 6, Time Level 7 and Level 7 added to the Wave combiner
+- Presets added on the WC EGs tab
+- Presets "4 levels 2", "6 levels" and "7 levels" added to the WC Easy EGs tab
+- Scale Times slider added to the WC EGs tab
+- Handy time slider menu added to the WC EGs tab (right click on the text after the slider)
+- Background curve added to the WC EGs tab
+- Divide command added to the WC EGs tab
+- Detune preset added to the Wave combiner 
+- Parameter added to distortion curves 9, 19 and 23
+- Distortion curves 29-39 added
+- Envelope added to the distortion effect
+- You can now use EQ before or after the reverb
+- If Note numbers contains only 128 and the Pitch is set to 0, you can play a note range. The pitch of the range C3 (48) - C5 (72) will be calculated.
+- DC protection added
+- Extra tab of the Easy drum synthesizer changed
+- Metallic percussion presets added
+- Envelope curves 13-22 added
+- The Delay effect can now also be used as a comb filter
+- Modulation Shape added to the Wave combiner
+- $WG -$WH added to Command 3
+- The Bass drum in the Easy Drum Synthesizer uses now the Wave combiner 
+- Tone parameter added to the Bass drum in the Easy Drum Synthesizer
+- Bass drum preset added in the Easy Drum Synthesizer
+- Bass drum Waveform selection box replaced by a slider in the Easy Drum Synthesizer (you can also choose a mix of two waveforms, like a wavetable)
+- Reverb Config 5 added (totally different from the other configurations)
+- Option "After reverb" added to the oscilloscope
+- Cowbell reverb changed in the Easy Drum Synthesizer
+- Fast Settings tab added
+- The Scale range for Change volume is now 0-200%
+- DC filter, Warp X and Warp Y added to the Distortion effect
+- Bugs fixed
+
+
+Version 1.0.6.3
+
+- Metallic percussion preset added
+- Envelopes of synthesizer drum set presets improved (also files updated)
+- 3-zone ride cymbal is now also supported in the Easy Setup, so you don't have to use a separate Extra trigger anymore
+- In the Easy Setup you can now also configure a rim shot that is triggered when you play hard on the snare drum
+- Instrument combination added to the Splash cymbal in the Easy Setup
+- Modulation "Highest value 1 (C or M)" and "Highest value 2 (C or M)" added to the Wave combiner
+- Algorithms 17-20 added to the Wave combiner
+- Command 3 Parameter 2 added to the Wave combiner
+- $W7 - $WF added to Command 3
+- The Wave combiner envelopes can now also be used as an oscillator (also presets added on the WC EGs tab for this purpose)
+- Envelope curve combinations added
+- Hot key Ctrl-W added for fast Wave combiner settings
+- Bug fixed: Curve picture was not always updated on the WC EGs tab
+
+
+Version 1.0.6.2
+
+- Simmons SD1250 and Yamaha DTX400K presets added to the Easy Setup
+- Dual zone configuration for toms added to the Easy Setup
+- Kalimba, Weird tom and Reverse cymbal added to the Extra Easy Setup instruments
+- Inharmonic 3 added to the ratio presets of the Wave combiner
+- Conga eis files added
+- Metallic percussion tab added to the Easy drum synthesizer
+- XOR in Wave combiner renamed to Uneven
+- Even, Only 1 and Only 2 added to the combine modes in the Wave combiner
+- Clear Log and Write Log to file added
+- Bug fixed: The Wave combiner envelope generators were ignored in the combine modes XOR, AND and OR
+
+
+Version 1.0.6.1
+
+- Presets "2 levels 2" and "3 levels 2" added to the WC Easy EGs tab
+- Presets 11 and 12 added to the WC EGs tab
+- Hold slider added to the Easy drum synthesizer Bass drum
+- Modulation Sync added to the Wave combiner
+- Metallic noise waveform added the Wave combiner
+- = (hold) command added to Command 3 of the Wave combiner
+- Choking cymbals by Note On or Note Off is now also supported
+- Option to control the switch by a program change added
+- Splash cymbal and Extra 7 added to the Easy Setup
+- Alesis Surge / Nitro preset added to the Easy Setup
+- Info added to the Extra triggers in the Easy Setup
+
+
+Version 1.0.6.0
+
+- Easy drum synthesizer settings are now stored
+- The Easy drum synthesizer Snare drum uses now the Wave combiner and has much more possibilities.
+- Click checkbox of the Easy drum synthesizer Bass drum replaced by a slider
+- Filter checkbox of the Easy drum synthesizer Bass drum removed
+- The Pitch setting for the Easy drum synthesizer Bass drum, Snare drum and Toms can be adjusted 10 times more precise
+- You can choose a musical note for the Easy drum synthesizer Bass drum, Snare drum and Toms by right clicking on the Pitch slider
+- Curves added to all envelope generators
+- Some bugs fixed
+
+
+Version 1.0.5.12
+
+- Waveform, Noise resonance and Sweep influences Noise tone added to the Easy drum synthesizer toms 
+- Easy drum synthesizer tom presets added
+- Preset Roland SPD-6 Toms added to the Easy Setup
+- Drum kit Electronic 9 added
+- Cowbells (mouth and body) added to the Easy drum synthesizer Cowbell tab
+- Import spectrum improved
+- Curve setting added to the volume envelope and the filter envelope
+- Volume and filter envelope presets changed
+- Decay curve setting added to the tab pages Bass drum, Snare drum and Cowbell of the Easy drum synthesizer 
+- Pan End added to the Sample / Synth tab
+- Filter types High shelf, Low shelf and Peak added
+- Some bugs fixed
+
+
+Version 1.0.5.11
+
+- Modulations Frequency (max depth = 10 x), Folding / Clipping and Cmd 3 parameter added to the Wave combiner
+- Colors added to the WC Easy Levels tab (blue = modulator, green = carrier)
+- Button to select all modulators added to the WC Easy Levels tab
+- Button to select all carriers added to the WC Easy Levels tab
+- Curves added to the distortion effect
+- Copy envelope added to the WC Easy EGs tab
+- Time Fourth level and Fourth level added to the Wave combiner envelopes
+- Wavecombiner envelopes volume renamed to level
+- Wavecombiner envelopes End renamed to Fifth
+- WC EGs tab added
+- 2 x AD, 2 x ramp up, 5 levels and more added to the WC Easy EGs tab
+- Two-character commands added to Command 3 of the Wave combiner
+- Clap tab added to the Easy drum synthesizer
+- Distortion checkbox of the Easy drum synthesizer bass drum replaced by a slider
+- Distortion slider added to the Easy drum synthesizer snare drum
+- Distortion slider added to the Easy drum synthesizer toms
+- Some bugs fixed
+
+
+Version 1.0.5.10
+
+- Reverb configurations added
+- Digital noise waveform added the Wave combiner
+- S changed to P at Command 3 of the Wave combiner
+- E, e, S, s, and d added to Command 3 of the Wave combiner
+- A lot of two-character commands added to Command 3 of the Wave combiner
+- Curves added to the distortion effect
+- Parameters added to several distortion curves
+- Preset added to the Snare drum tab of the Easy drum synthesizer
+
+
+Version 1.0.5.9
+
+- Performance improved
+- 5 textboxes replaced by a mini slider on the Synth tab
+- New Waveform combiner Easy Vol tab added
+- Restore button added to the tab Wave combiner Easy EGs
+- Filter routing added to the Filters tab
+- For the two filters on the Filters tab, the filter type can now be highpass, lowpass, bandpass or notch
+- The two filters on the Filters tab have now both their own envelope generator
+- Some bugs fixed
+
+
+Version 1.0.5.8
+
+- Cowbell 4 added to the Cowbell tab of the Easy drum synthesizer
+- Waveform added to the Cowbell tab of the Easy drum synthesizer
+- Preset added to the Cowbell tab of the Easy drum synthesizer
+- Hi-hat / Cymbals 2 tab added to the Easy drum synthesizer
+- The presets of the Hi-hat / Cymbals 2 tab can be used in Easy Setup by selecting Cymbal Set 3
+- Sinc 1, Sinc 2, Sinc 3, Special 5, Special 6, Special 7, 2 x Sine, 2 x Square and Noise and Notch waveforms added the Wave combiner
+- A lot of easy envelope sliders added to the Volumes and Filter tabs
+- New tab Wave combiner Easy EGs added
+- Fold once, Clip -> max and Clip -> 0 added to Folding or Clipping in the Wave combiner
+- Command 1, Command 2 and Command 3 added to the Wave combiner
+- Tom 3 added to the Toms tab of the Easy drum synthesizer
+- Drive and Curve added to the distortion effect (bipolar distortion is now also possible)
+- Notch filter added to the Wave combiner and the Hi-hat / Cymbals tabs of the Easy drum synthesizer
+- Formant filter (for human voice sounds) added to the special effects
+- Some bugs fixed
+
+
+Version 1.0.5.6
+
+- Presets added to the Bass drum tab of the Easy drum synthesizer
+- Colors added to the Wave combiner table (blue = modulator, green = carrier)
+- Value slider added to the Wave combiner
+- Noise filter envelope pictures added to the Cymbals tab of the Easy drum synthesizer
+- Presets added to the Cymbals tab of the Easy drum synthesizer
+- The cymbal sets from the presets of the Easy drum synthesizer can be used in Easy Setup
+- Metal 1 and Noise of the Cymbals tab of the Easy drum synthesizer changed
+- Filter resonance added to the Wave combiner
+- All filter resonance settings can be adjusted 10 times more precise
+- Some bugs fixed
+
+
+Version 1.0.5.5
+
+- Feedback can now be used for every operator, no mather which algorithm is used
+- Osc 2 feedback added to the Toms tab of the Easy drum synthesizer
+- Algorithms 8-16 added to the Wave combiner
+- Waveforms added to the Wave combiner
+- The LFO can now also modulate the Wave combiner
+- Ignore LFO added to the wave combiner
+- Noise and BPF (bandpass filter) added to Oscillator 1, Oscillator 2 and the Wave combiner
+- You can now use as many noise waveforms as you like in the Wave combiner
+- Noise tone added to the Snare drum tab of the Easy drum synthesizer 
+- You can now press Ctrl and Shift to play the current sound
+- Filter (highpass, lowpass or bandpass) added to the Wave combiner
+- When pressing an Easy drum synthesizer preset, the instrument is now also played
+- Power options added to the Snare drum tab of the Easy drum synthesizer
+- Hi-hat / Cymbals tab of the Easy drum synthesizer renewed
+- Minimum frequency in Waveform combiner decreased from 1 to 0.1 Hz
+- Option for using the toms from another drum kit added to the Easy Setup
+- Drum kit Electronic 8 added
+- Time Third volume, Third volume and Time End Volume added to the Wave combiner
+- Mark tree (bar chimes) added to the Easy drum synthesizer
+
+
+Version 1.0.5.4
+
+- 3 algorithms added to the Wave combiner
+- Envelope curves added to the Wave combiner envelopes
+- A lot of settings added to the Toms tab of the Easy drum synthesizer
+- Drum kit Electronic 7 added
+- The pitch and frequency sliders in the Easy drum synthesizer can be set to 0 by clicking on it with the right mouse button
+- Pan added to the Easy Setup
+- Some bugs fixed
+
+
+Version 1.0.5.3
+
+- Envelope generators added to the Wave combiner
+- Increased the number of Wave combiner oscillators from 8 to 12
+- Phase setting added to the LFO and the Wave combiner
+- Oboe, Clarinet and Helicopter added to the Extra tab of the Easy drum synthesizer
+- Preset ratios added to the Wave combiner
+- Presets added to the Wave combiner
+- "Noice and HPF" and "Noice and LPF" added to the Oscillator 1 and Oscillator 2 waveforms
+- Import frequency spectrum from Audacity, Folding and Algorithm (for FM) added to the Wave combiner
+- With Ctrl-L and Ctrl-R you can move the columns from the Wave combiner
+- Filter option added to the Bass drum tab of the Easy drum synthesizer
+- Export to WAV file
+- Instrument choice for Crash cymbal 2 in Easy Setup added
+- Option to use samples for the cymbals of the electronic drum kits added in Easy Setup
+- Drum kit Electronic 6 added
+- Exponential decay, Multi ramp 1 and Multi ramp 2 waveforms added to the LFO
+- Balance Osc 1 / Osc 2 improved
+- EQ added to Reverb effect
+- Some bugs fixed
+
+
+Version 1.0.5.2
+
+- More time reserved for reverb tail
+- Drum kit Electronic 5 added
+- Drum kit Dry added
+- Clap, Shaker, Guiro, Agogo, Choir, Bell, Organ, R2-D2 and Sonar added to the Extra tab of the Easy drum synthesizer
+- All electronic drum kits improved
+- Sample & hold waveform added to the LFO
+- Init waveform changed
+- Distortion added to the Bass drum tab of the Easy drum synthesizer
+- Preset added to the Bass drum tab of the Easy drum synthesizer
+- Preset added to the Toms drum tab of the Easy drum synthesizer
+- Special waveforms added
+- Wave combiner added
+- Volume and filter envelopes can be adjusted 10 times more precise (this was needed for setting very short attack times, instead of 0, to avoid a click at the start of a sound)
+- Roland SPD-6 preset in Easy Setup changed
+- Cowbell tab added to the Easy drum synthesizer
+- Delay effect added
+- Half open hi-hat pedal position can be changed easily without reconfiguring the hi-hat again in Easy Setup
+- The LFO can now also modulate only one oscillator
+- The LFO can now be set in Envelope mode
+- Audio Trigger added
+- Bongos confguration file for the Roland SPD-6 added
+- Renamed program name from Edrums to frEDrums
+- Some bugs fixed
+
+
+Version 1.0.5.1
+
+- Special waveform added
+- Metal sound selector added to the Hihat / Cymbals tab of the Easy drum synthesizer
+- Oscillator 1 Decay curve for Time F1 -> F2 added
+- Sweep curve selector added to the Bass drum, Snare drum and Toms tabs of the Easy drum synthesizer
+- Preset added to the Hihat / Cymbals tab of the Easy drum synthesizer
+- Phase added to Oscillator 1
+- Click sound option added to the Bass drum, Snare drum and Toms tabs of the Easy drum synthesizer
+- Pitch in the Easy drum synthesizer can be adjusted more precisely
+- The frequency of the pitch in the Easy drum synthesizer is now indicated
+- Gate added to Reverb effect
+- Drum kit Electronic 4 added
+- Bug Moving instruments up and down fixed
+- New Create copy command added to copy an instrument
+- Shortcut keys added (Ctrl-U = Move Up, Ctrl-D = Move Down, Ctrl-E = Easy Setup)
+- When pressing Sync Start, the MIDI connection will be opened
+
+
+
+

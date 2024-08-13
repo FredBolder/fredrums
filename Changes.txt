@@ -1,22 +1,52 @@
-Version 1.0.6.12
+Version 1.0.6.15
+
+- Feedback From added to the Wave combiner
+- Bell_03, Closed_hi-hat_02, Crash_cymbal_07 - Crash_cymbal_11, DX7_Claves_01, E-Piano_04, Noise_drum_05, Open_hi-hat_02, Organ_03, Strings_04, Synth_brass_03, Synth_pad_03, Synth_percussion_64, Synth_percussion_65 and Tom_07 added to the Extra tab of the Easy drum synthesizer
+- Chromatic, Diatonic and Pentatonic added to the ratio presets of the Wave combiner
+- At the Master Frequency of the Wave combiner you can also enter musical notes
+- By pressing the Multi Export button you can export every Wave combiner oscillator output to a wav file.
+- Drum kit Electronic 10 added.
+- Pedal hi-hat added to all electronic drum kits.
+- Some sounds of drum kit Electronic 7 improved. 
+- Wave combiner matrix added.
+- Bugs fixed.
+
+Versions 1.0.6.12 - 1.0.6.14
 
 - Filter routing, Modulation and Ladder filter added to the Equalizer
-- Aah_04, Arpeggio_Am_01, Arpeggio_C_01, Arpeggio_Dm_01, Arpeggio_Dm_02, Blip_01, Blip_02, Clap_06, Glass_bell_01, Harpsichord_01, Noise_chord_01, Ooh_03, Squelch_01, Stutter_01, Synth_01, Synth_percussion_51 - Synth_percussion_59, Vocal_01 and Vocal_02 added to the Extra tab of the Easy drum synthesizer
+- Aah_04, Arpeggio_Am_01, Arpeggio_C_01, Arpeggio_Dm_01, Arpeggio_Dm_02, Blip_01, Blip_02, Cello_01, Clap_06, Crash_cymbal_04, Cymbal_01, Cymbal_02, E-Bass_01, E-Guitar_01, E-Piano_03, Explosion_02, Flute_02, Glass_bell_01, Harpsichord_01, Noise_chord_01, Ooh_03, Organ_melody_01, Snare_drum_05, Snare_drum_06, Squelch_01, Strings_03, Stutter_01, Synth_01, Synth_pad_02, Synth_percussion_51 - Synth_percussion_62, Timpani_02, Timpani_03, Trombone_01, Trombone_melody_01, Trumpet_02, Trumpet_melody_01, Vocal_01 and Vocal_02 added to the Extra tab of the Easy drum synthesizer
 - Pattern and preset added to the Easy drum synthesizer Chord tab
 - Poisson noise added to the Wave Combiner waveforms
-- Preset added to the Distortion user curve
+- Presets added to the user curves
 - Parameter 2, to choose 5 different waveforms, added to W7 and W8 of Command 3
 - Envelope curves 30-50 added
 - Envelope curve parameter added to the wave combiner operators, the volume and the filters
 - Right click menu Load from file / Save to file and presets added to the WC EGs tab
 - "3 x AD" added to the WC Easy EGs tab
-- Two character commands !0-!9, !A-!Z and !a-!z added to Command 3
+- Two character commands !0-!9, !A-!Z, !a-!z and WL added to Command 3
 - Modulation Invert 1 and Invert 2 added to the Wave combiner
 - Audio trigger removed
 - Drum kit file Roland_TD-1K_Synth_1.edr, Roland_TD-1K_Chords_1.edr and Roland_SPD-6_Chords_1.edr added
 - Cross stick added to most Roland_TD-1K*.edr files
 - On the Fast Settings tab, you can copy a cell to the whole column
 - Default folder for edr files added to the Settings
+- The LFO Depth can be adjusted 10 times more precise
+- Wave generation mode setting added
+- Clarinet_01, Oboe_01, Oboe_02 and Violin_01 improved
+- Song Greensleeves improved
+- User curve 1 and User curve 2 (that where only used for the Distortion effect) can now be used in most envelopes
+- Preview added to curve select form
+- Algorithm 25 added to the Wave combiner
+- User curves Snap en Grid settings are now saved
+- 14 User curves added
+- Noise filter type Low pass, Tuning and preset added to the Easy drum synthesizer Snare drum
+- Import single cycle, Info, Background curve, Select next, Select previous, Delete selected, Move selected point (Up, Down, Left, Right), Move curve vertically (Bottom, Middle and Top), Insert (Before and After), Scale X to, X / 2, Transpose, Show nodes, parameter formules, Step editing and Snap to musical scale added to the User curves form
+- Category Strings added to the Easy drum synthesizer Extra tab
+- Multi comb filter added
+- The density of the looped noise can now be changed with the Duty cycle setting
+- When editing a pitch sequence, you can now also copy the selected items after the selection
+- 4 pitch sequences added
+- Mute added to the fast settings
 
 Version 1.0.6.11
 

@@ -1,3 +1,32 @@
+Version 1.0.6.16
+
+- Arpeggio presets renamed
+- Arpeggio_01_Bb, Arpeggio_01_C, Arpeggio_01_Dm, Arpeggio_02_Bb, Arpeggio_04_Am, Arpeggio_04_Bb, Arpeggio_04_C, Arpeggio_04_Dm, Arpeggio_04_F, Arpeggio_04_Gm, Guitar_03, Guitar_04, Karplus-Strong_drum_07, Karplus-Strong_drum_08, Karplus-Strong_drum_09, Karplus-Strong_drum_10, Noise_chord_02, Noise_chord_03, Noise_chord_04, Organ_04, Piano_03, Pipe_organ_01, Snare_drum_07, Strings_05, Strings_06, Strings_07, Synth_bass_08, Synth_percussion_66 and Synth_percussion_67 added to the Extra tab of the Easy drum synthesizer
+- White, Pink, Brown, Blue and Violet noise added to the Wave combiner oscillator
+- You can now change the waveform, the envelope curve and the modulation in the Wave combiner also with the plus and minus keys
+- Chorus effect added
+- Preset categories New and Sequence added 
+- Filters SVF High pass, SVF Low pass, SVF Band pass and SVF Notch added
+- User curves Psuedo_Random_01, Pulse_segments_07, Pulse_segments_08, Rhythm_01, Rhythm_02, Saw_Square_02, Saw_segments_10, Sine_segments_09, Sine_segments_10, Square_segments_04, Square_to_2_x_Square_02, Triangle_segments_03, Triangle_segments_04 added
+- Base level, Sine, Triangle and presets added to the Rhythm preset of the User curve editor
+- Hot keys added to the User curve editor (s=start, e=end)
+- User curve parameter formule "Y = 100 - ((100 - Curve1(X)) * Parameter / 100)" added
+- User curve parameter formule "Y = Curve(Round(Parameter), X)" added
+- User curve parameter formule "Y = 100 - Curve(Round(Parameter), X)" added
+- User curve preset 9 added
+- Set to 1 added to Command 1 and Command 2 (handy when you want to modulate only with the envelope)
+- PD (phase distortion) command added to Command 3
+- CP (copy like delay or comb filter) command added to Command 3
+- Phase distortion user curves added
+- Default folder for eis files added to the Settings
+- Collisions, overtone ratio, overtone decay, speed change, use frequencies, scales and presets added to the Mark tree
+- The maximum number of chimes for Mark tree 2 is increased from 6 to 12. For the other mark trees there is depending on the scale a maximum of 24.
+- Mark tree waveforms changed 
+- Negative feedback possible in Wave combiner
+- Negative modulation possible in Wave combiner matrix
+- Bipolar phase modulation added to the Wave combiners
+- Noise seed added
+
 Version 1.0.6.15
 
 - Feedback From added to the Wave combiner

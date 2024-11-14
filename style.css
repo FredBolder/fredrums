@@ -30,7 +30,7 @@ h2 {
     margin-bottom: 1rem;
 }
 
-img {
+.screenshot {
     width: 100%;
     object-fit: contain;
 }
